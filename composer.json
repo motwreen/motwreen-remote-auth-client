@@ -1,6 +1,6 @@
 {
-    "name": "motwreen/consumer",
-    "description": "Auth Service Consumer",
+    "name": "motwreen/auth-consumer",
+    "description": "Handle remote authentication for Laravel apps",
     "type": "library",
     "require": {
         "laravel/framework": "^7.0",
